@@ -222,12 +222,6 @@ The agent generates a complete profile page with:
 
 Contributions are welcome! Here's how you can help:
 
-### **Add Your Country**
-If your country isn't in the auto-detection list:
-1. Find your flag's official RGB colors
-2. Add to `COUNTRY_COLORS` dictionary in `HAM-PROFILE-AGENT.md`
-3. Submit a pull request
-
 ### **Share Your Profile**
 Created an amazing profile? Share it!
 - Open an issue with tag `show-and-tell`
