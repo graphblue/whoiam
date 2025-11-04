@@ -82,7 +82,7 @@ This project provides an **AI agent prompt** specifically designed to help ham r
 This agent prompt works with other AI assistants (ChatGPT, Gemini, etc.), though Claude Code provides the best experience due to its superior code generation and file handling capabilities.
 
 **To use with other AI:**
-1. Copy the content of `HAM-PROFILE-AGENT.md`
+1. Copy the content of `HAM-PROFILE-AGENT.md` and `PLATFORM-LIMITS.md`
 2. Paste it into your AI assistant
 3. Add: "Please act as this agent and help me create a ham radio profile page"
 4. Provide your callsign and preferences
