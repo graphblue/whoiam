@@ -96,18 +96,8 @@ This agent prompt works with other AI assistants (ChatGPT, Gemini, etc.), though
 | File | Description |
 |------|-------------|
 | `HAM-PROFILE-AGENT.md` | Complete agent prompt with instructions |
-| `CSS-SAFE-REFERENCE.md` | All CSS features that work on platform |
 | `PLATFORM-LIMITS.md` | Technical constraints and limitations |
-| `DEBUGGING-YO3GPH.md` | Troubleshooting example (real-world bug fix) |
 
-### **Example Files**
-
-| File | Description |
-|------|-------------|
-| `yo3gph-profile.html` | Complete profile example (YO3GPH - Romania) |
-| `yo3gph.css` | Optimized CSS (8,091 bytes) |
-| `yo3gph-safe.css` | Ultra-safe CSS version (6,784 bytes) |
-| `ham-profile-compact.css` | Generic template (8,056 bytes) |
 
 ---
 
@@ -212,26 +202,19 @@ The agent automatically:
 
 ---
 
-## 🎨 **Examples**
+## 🎨 **What You'll Get**
 
-### **YO3GPH Profile** (Romanian Operator)
-```
-Location: Bucharest, Romania (KN32AL)
-Colors: Romanian Flag (Blue #00398C, Yellow #FCD116, Red #CE1126)
-Equipment: Anytone AT-D878UVII Plus, Radioclub HF
-Design: Modern tech with neon glows and animations
-CSS Size: 8,091 bytes
-```
+The agent generates a complete profile page with:
 
-**Features:**
-- ✅ Animated signal bars (Romanian flag gradient)
-- ✅ Glowing callsign with flag colors
-- ✅ Responsive layout (mobile/tablet/desktop)
-- ✅ Equipment showcase with expandable details
-- ✅ Band activity bars
-- ✅ Mode badges (DMR, FM, SSB, CW, APRS)
-
-*See `yo3gph-profile.html` and `yo3gph.css` for complete example*
+- ✅ **Prominent callsign display** with your country's flag colors
+- ✅ **Animated signal bars** for authentic amateur radio feel
+- ✅ **Equipment showcase** with expandable sections
+- ✅ **Band activity visualization** showing your operating preferences
+- ✅ **Mode badges** (SSB, CW, FT8, DMR, FM, APRS, etc.)
+- ✅ **Responsive design** (works on mobile, tablet, desktop)
+- ✅ **Hover effects** and smooth animations
+- ✅ **Contact links** section (QRZ, HamQTH, eQSL, PSKReporter)
+- ✅ **Under 8KB CSS** - guaranteed platform compliance
 
 ---
 
@@ -247,31 +230,15 @@ If your country isn't in the auto-detection list:
 
 ### **Share Your Profile**
 Created an amazing profile? Share it!
-1. Add screenshot to `examples/` folder
-2. Include your HTML/CSS (if you're comfortable)
-3. We'll feature it in the gallery
+- Open an issue with tag `show-and-tell`
+- Include a screenshot or link
+- Help inspire other operators!
 
 ### **Report Issues**
 Found a bug or limitation?
 - Open an issue with details
 - Include platform error messages
 - Share what didn't work
-
----
-
-## 📸 **Gallery**
-
-*Coming soon! Share your profiles and they'll be featured here.*
-
----
-
-## 🏆 **Success Stories**
-
-> *"I drew my design on paper, took a photo, and the agent made it real!
-> My station finally has the online presence it deserves!"*
-> — **YO3GPH**, Bucharest, Romania
-
-*Want to share your story? Open an issue with tag `success-story`*
 
 ---
 
@@ -319,15 +286,14 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🙏 **Credits**
 
-**Created by**: GraphBlue
-**Initial Design**: YO3GPH Profile Project
-**Optimized for**: Claude Code (Anthropic)
-**Community**: Ham Radio Operators Worldwide
+**Project Creator**: [GraphBlue](https://github.com/graphblue)
+**Optimized for**: [Claude Code](https://claude.ai/code) by Anthropic
+**License**: Creative Commons Attribution 4.0 International
 
-Special thanks to:
-- Amateur radio community for testing and feedback
-- Anthropic for Claude Code capabilities
-- All operators who shared their design visions
+**Special Thanks:**
+- The global amateur radio community
+- Anthropic for Claude's advanced AI capabilities
+- All ham operators who will use and improve this tool
 
 ---
 
